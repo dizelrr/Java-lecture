@@ -9,15 +9,17 @@ package Lesson1.Task3;
 
 public class main {
       public static void main(String[] args) {
-            int[] nums = {3, 2, 3, 2 , 1};
+            int[] nums = {3, 2, 3, 2 , 1 , 5 ,3,4};
             int val = 3;
             int start = 0;
             int end = nums.length - 1;
 
+
+            while (nums[end] == val){end--;} // чтобы тройки каждый раз не перебирать
             while  (start < end ) {
                  if ( nums [start] == val) {
-                  int temp = nums [start];
-                  nums[start] = nums [end];
+                  int temp = nums [start];  // присваеваем 0
+                  nums[start] = nums [end]; // 3
                   nums[end] = temp; 
                   end--;
               } else {
