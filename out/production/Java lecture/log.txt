@@ -1,0 +1,78 @@
+февр. 18, 2024 9:45:09 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:45:09 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:45:09 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:56:28 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:56:28 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:56:28 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:56:31 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:56:31 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:56:31 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:56:34 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:56:34 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:56:34 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:58:35 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:58:35 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:58:35 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:58:37 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:58:37 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:58:37 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:58:38 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:58:38 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:58:38 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+февр. 18, 2024 9:58:39 PM Lesson2.GetContentsFolder main
+INFO: Start program
+февр. 18, 2024 9:58:39 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+февр. 18, 2024 9:58:39 PM Lesson2.GetContentsFolder writeToFile
+WARNING: Ошибка записи файла
+С„РµРІСЂ. 18, 2024 10:05:12 PM Lesson2.GetContentsFolder main
+INFO: Start program
+С„РµРІСЂ. 18, 2024 10:05:12 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+С„РµРІСЂ. 18, 2024 10:05:12 PM Lesson2.GetContentsFolder writeToFile
+WARNING: РћС€РёР±РєР° Р·Р°РїРёСЃРё С„Р°Р№Р»Р°
+С„РµРІСЂ. 18, 2024 10:05:15 PM Lesson2.GetContentsFolder main
+INFO: Start program
+С„РµРІСЂ. 18, 2024 10:05:15 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+С„РµРІСЂ. 18, 2024 10:05:15 PM Lesson2.GetContentsFolder writeToFile
+WARNING: РћС€РёР±РєР° Р·Р°РїРёСЃРё С„Р°Р№Р»Р°
+С„РµРІСЂ. 18, 2024 10:05:16 PM Lesson2.GetContentsFolder main
+INFO: Start program
+С„РµРІСЂ. 18, 2024 10:05:17 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+С„РµРІСЂ. 18, 2024 10:05:17 PM Lesson2.GetContentsFolder writeToFile
+WARNING: РћС€РёР±РєР° Р·Р°РїРёСЃРё С„Р°Р№Р»Р°
+С„РµРІСЂ. 18, 2024 10:05:18 PM Lesson2.GetContentsFolder main
+INFO: Start program
+С„РµРІСЂ. 18, 2024 10:05:18 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+С„РµРІСЂ. 18, 2024 10:05:18 PM Lesson2.GetContentsFolder writeToFile
+WARNING: РћС€РёР±РєР° Р·Р°РїРёСЃРё С„Р°Р№Р»Р°
+С„РµРІСЂ. 18, 2024 10:08:11 PM Lesson2.GetContentsFolder main
+INFO: Start program
+С„РµРІСЂ. 18, 2024 10:08:11 PM Lesson2.GetContentsFolder getContentsFolder
+INFO: getContentsFolder
+С„РµРІСЂ. 18, 2024 10:08:11 PM Lesson2.GetContentsFolder writeToFile
+WARNING: РћС€РёР±РєР° Р·Р°РїРёСЃРё С„Р°Р№Р»Р°
